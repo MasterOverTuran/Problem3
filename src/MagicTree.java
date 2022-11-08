@@ -28,8 +28,8 @@ public class MagicTree implements Tree {
         return Color.MAGENTA;
     }
 
-    private void setPosition(Point legalRandomPosition) {
-        this.position = legalRandomPosition;
+    private void setPosition(Point position) {
+        this.position = position;
     }
 
     public Point getPosition() {

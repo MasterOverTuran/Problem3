@@ -1,5 +1,6 @@
 import java.awt.*;
 
+//
 public interface Tree {
 
     void grow();
